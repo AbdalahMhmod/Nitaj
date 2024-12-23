@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nitaj.Presentation", "Nitaj.Presentation\Nitaj.Presentation.csproj", "{9F4A698C-7E92-4278-9203-8A9BC0B56C27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nitaj.Application", "Nitaj.Application\Nitaj.Application.csproj", "{0ECAA682-885D-4137-946F-E4739932CCEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nitaj.Domain", "Nitaj.Domain\Nitaj.Domain.csproj", "{6BFC7796-7E3F-4C7A-948A-34A7FB1E080F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nitaj.Infrastructure", "Nitaj.Infrastructure\Nitaj.Infrastructure.csproj", "{2C6A78EB-9273-48AF-BC2B-AE6918C24D49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nitaj.IoC", "Nitaj.IoC\Nitaj.IoC.csproj", "{5AD16F40-9A1E-47DD-87E8-EDCF9BA4E0D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F4A698C-7E92-4278-9203-8A9BC0B56C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4A698C-7E92-4278-9203-8A9BC0B56C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4A698C-7E92-4278-9203-8A9BC0B56C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4A698C-7E92-4278-9203-8A9BC0B56C27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECAA682-885D-4137-946F-E4739932CCEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECAA682-885D-4137-946F-E4739932CCEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECAA682-885D-4137-946F-E4739932CCEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECAA682-885D-4137-946F-E4739932CCEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BFC7796-7E3F-4C7A-948A-34A7FB1E080F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFC7796-7E3F-4C7A-948A-34A7FB1E080F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BFC7796-7E3F-4C7A-948A-34A7FB1E080F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BFC7796-7E3F-4C7A-948A-34A7FB1E080F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C6A78EB-9273-48AF-BC2B-AE6918C24D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6A78EB-9273-48AF-BC2B-AE6918C24D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6A78EB-9273-48AF-BC2B-AE6918C24D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6A78EB-9273-48AF-BC2B-AE6918C24D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD16F40-9A1E-47DD-87E8-EDCF9BA4E0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD16F40-9A1E-47DD-87E8-EDCF9BA4E0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD16F40-9A1E-47DD-87E8-EDCF9BA4E0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD16F40-9A1E-47DD-87E8-EDCF9BA4E0D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {593887C1-9C71-47A3-965E-B5C0A6316288}
+	EndGlobalSection
+EndGlobal
